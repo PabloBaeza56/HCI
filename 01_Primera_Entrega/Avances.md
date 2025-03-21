@@ -77,3 +77,5 @@ Este proceso permitió obtener una **estimación precisa** tanto de la duración
 ## 📄 Documento de definición del proyecto
 
 Finalmente, se elaboró el **documento de definición del proyecto**, el cual abarca de manera detallada todas las **actividades realizadas** a lo largo del proceso, así como las **definiciones de los procesos y métodos empleados** durante el desarrollo del proyecto. Este documento sirvió como una guía integral que describe el enfoque adoptado, las estrategias utilizadas y los criterios que orientaron cada fase del proyecto, asegurando así una visión clara y coherente de todas las decisiones tomadas. Además, se incluyó información relevante sobre el cronograma, presupuesto, recursos involucrados y cualquier otro aspecto clave que permitió una ejecución exitosa del proyecto.
+
+### ‼️ Para visualizar el documento en línea, haga clic en el [enlace](https://docs.google.com/document/d/16Dn9RTaE3igpE8eJGxdp67qsOVqovH4h/edit?usp=sharing&ouid=103342295443417615906&rtpof=true&sd=true).
