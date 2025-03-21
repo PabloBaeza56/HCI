@@ -4,7 +4,7 @@ Bienvenido al repositorio del equipo, donde recopilamos nuestro trabajo y docume
 
 ## 📌 Introducción
 
-Aquí encontrarás el desarrollo de ARIS<T>A, una solución innovadora diseñada para abordar un desafío común entre estudiantes universiatrios: **falta de experiencia en entrevistas de trabajo y procesos de selección para *internships*** .
+Aquí encontrarás el desarrollo de ARIS<T>A, una solución innovadora diseñada para abordar un desafío común entre estudiantes universiatrios: **falta de experiencia en entrevistas de trabajo y procesos de selección para *internships***.
 
 ## 📌 ¿Quienes somos?
 
