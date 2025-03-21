@@ -27,6 +27,17 @@ En este repositorio podrás encontrar lo siguiente:
 * Diseño y prototipado de la plataforma.
 * Proceso para la experiencia del usuario.
 
-A continuación se presenta un índice para la rápida lectura y búsqueda de recursos del repositorio:
+## 📌 Índice
 
-> El índice está planeado a modificarse durante el transcurso del desarrollo del proyecto
+> *Este índice está diseñado para facilitar la rápida lectura y búsqueda de recursos dentro del repositorio. Se actualizará a medida que avance el desarrollo del proyecto.*
+
+### 📑 **[Entrega Preliminar](/00_Entrega_Preliminar/)**
+- **[Investigación](00_Entrega_Preliminar/Investigación.md)**
+- **[Propuesta](00_Entrega_Preliminar/Propuesta_ARISTA.pdf)**
+
+### 📁 **[Primera Entrega](/01_Primera_Entrega/)**
+- **[Anexos](01_Primera_Entrega/Anexos/)**
+  - **[Duración y Costo](01_Primera_Entrega/Anexos/Duración_Costos.xlsx)**
+  - **[Escenarios](01_Primera_Entrega/Anexos/Escenarios.pdf)**
+  - **[Perfiles y Personas](01_Primera_Entrega/Anexos/Perfiles_Personas.pdf)**
+- **[Descripción de Avances](01_Primera_Entrega/Avances.md)**
