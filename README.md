@@ -39,5 +39,7 @@ En este repositorio podrás encontrar lo siguiente:
 - **[Anexos](01_Primera_Entrega/Anexos/)**
   - **[Duración y Costo](01_Primera_Entrega/Anexos/Duración_Costos.xlsx)**
   - **[Escenarios](01_Primera_Entrega/Anexos/Escenarios.pdf)**
+  - **[Especificación de Requisitos](/01_Primera_Entrega/Anexos/Especificación_Requisitos.pdf)**
   - **[Perfiles y Personas](01_Primera_Entrega/Anexos/Perfiles_Personas.pdf)**
 - **[Descripción de Avances](01_Primera_Entrega/Avances.md)**
+- **[Definición del Proyecto](/01_Primera_Entrega/Definición_Proyecto.pdf)**
