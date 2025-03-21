@@ -1,10 +1,10 @@
-# ✨ Repositorio del Proyecto ARIS<T>A ✨
+# ✨ Repositorio del Proyecto ARIS\<T\>A ✨
 
 Bienvenido al repositorio del equipo, donde recopilamos nuestro trabajo y documentación para la asignatura de **Interacción Humano-Computadora**.
 
 ## 📌 Introducción
 
-Aquí encontrarás el desarrollo de ARIS<T>A, una solución innovadora diseñada para abordar un desafío común entre estudiantes universiatrios: **falta de experiencia en entrevistas de trabajo y procesos de selección para *internships***.
+Aquí encontrarás el desarrollo de ARIS\<T\>A, una solución innovadora diseñada para abordar un desafío común entre estudiantes universiatrios: **falta de experiencia en entrevistas de trabajo y procesos de selección para *internships***.
 
 ## 📌 ¿Quienes somos?
 
