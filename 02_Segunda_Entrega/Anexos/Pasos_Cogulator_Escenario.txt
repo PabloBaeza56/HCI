@@ -1,0 +1,116 @@
+Goal:  Crear cuenta en la plataforma
+. Look at Título_ARISTA
+. Think for 1,2 segundos 
+. Look at Descripción_ARISTA
+. Read  Descripción_ARISTA
+. Point to Botón_comenzar_ahora
+. Click Botón_comenzar_ahora
+. Wait for 1 segundo
+
+Goal: Ingresar correo electrónico
+. Think for 1,2 segundos 
+. Look at Botón_iniciar_sesión
+. Point to Botón_iniciar_sesión
+. Click Botón_iniciar_sesión
+. Wait for 1 segundo
+
+Goal: Encontrar y seleccionar la sección de "Coaches"
+. Look at Título_noticias
+. Think for 1,2 segundos 
+. Look at Descripción_noticia1
+. Look at Descripción_noticia2
+. Look at Botón_coaches
+. Point to Botón_coaches
+. Click Botón_coaches
+. Wait for 1 segundo
+
+Goal: Ajustar los filtros de búsqueda de "coaches"
+. Look at Buscador
+. Think for 1,2 segundos 
+. Look at Título_filtros
+. Look at Título_área_especialización
+. Look at Checkbox_software
+. Point to Checkbox_software
+. Click Checkbox_software
+. Look at Fecha_disponibilidad
+. Think for 1,2 segundos
+. Point to Fecha_disponibilidad
+. Click Fecha_disponibilidad
+. Wait for 1 segundo
+. Look at Mes
+. Point to Mes
+. Click Mes
+. Look at Mes_abril
+. Point to Mes_abril
+. Click Mes_abril
+. Look at Año
+. Point to Año
+. Click Año
+. Look at Año_2025
+. Point to Año_2025
+. Click Año_2025
+. Look at Día_4
+. Point to Día_4
+. Click Día_4
+. Look at Horario
+. Point to Horario
+. Click Horario
+. Look at Horario_11_40
+. Point to Horario_11_40
+. Click Horario_11_40
+. Think for 1,2 segundos
+. Look at Botón_Aceptar
+. Point to Botón_Aceptar
+. Click Botón_Aceptar
+
+Goal: Elegir el "coach" de preferencia
+. Think for 1,2 segundos
+. Look at Botón_Ver_Perfil_Pablo_Baeza
+. Point to Botón_Ver_Perfil_Pablo_Baeza
+. Click Botón_Ver_Perfil_Pablo_Baeza
+
+Goal: Ir a las reuniones que ofrece el "coach" de preferencia
+. Think for 1,2 segundos
+. Look at Botón_ver_reuniones
+. Point to Botón_ver_reuniones
+. Click Botón_ver_reuniones
+
+Goal: Revisar el calendario de sesiones del "coach" y elegir la de su preferencia
+. Look at Fecha_reunión
+. Think for 1,2 segundos
+. Look at Horario_reunión
+. Point to Botón_postularme
+. Click Botón_postularme
+
+Goal: Registar datos de solicitud de inscripción a la reunión con el "coach"
+. Look at Tipo_reunión
+. Think for 1,2 segundos
+.Point  to Tipo_reunión
+. Click Tipo_reunión
+. Write "Entrevista"
+. Look at Motivo_reunión
+. Think for 1,2 segundos
+.Point to Motivo_reunión
+. Click Motivo_reunión
+. Write "Simulación"
+. Look at Comentarios
+. Think for 1,2 segundos
+.Point to Comentarios
+. Click Comentarios
+. Write "Me gustaria una simulacion para una entrevista tecnica como Programadora"
+. Look at Botón_aceptar
+. Point to Botón_aceptar
+. Click Botón_aceptar
+. Wait for 1 segundo
+.Read Mesaje_registro_exitoso
+.Look at Botón_aceptar
+.Point to Botón_aceptar
+.Click Botón_aceptar
+.Look at Reunión_solicitada
+
+Goal: Revisar la bandeja de notificaciones y verificar si la solicitud fue aceptada
+.Look at Botón_notificaciones
+.Point to Botón_notificaciones
+.Click Botón_notificaciones
+. Look Notificación
+.Read Notificación
