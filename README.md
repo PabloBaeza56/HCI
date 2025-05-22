@@ -44,3 +44,20 @@ En este repositorio podrás encontrar lo siguiente:
 - **[Descripción de Avances](01_Primera_Entrega/Avances.md)**
 - **[Definición del Proyecto](/01_Primera_Entrega/Definición_Proyecto.pdf)**
 - **[Presentación de Definición del Proyecto](/01_Primera_Entrega/Presentación_Definición_Proyecto.pdf)**
+
+### 📁 **[Segunda Entrega](/02_Segunda_Entrega/)**
+- **[Anexos](/02_Segunda_Entrega/Anexos/)**
+  - **[Análisis Cogtools](/02_Segunda_Entrega/Anexos/Arista.cgt)**
+  - **[Análisis Cogulator](/02_Segunda_Entrega/Anexos/Cogulator_Pasos_Escenario_ARISTA.ods)**
+  - **[ERS](/02_Segunda_Entrega/Anexos/Especificación_Requisitos.pdf)**
+- **[Análisis de diseño](/02_Segunda_Entrega/Documento_de_análisis_de_diseño.pdf)**
+- **[Prototipo](/02_Segunda_Entrega/Prototipo_REVISADO_escenario.pdf)**
+- **[Presentación](/02_Segunda_Entrega/Presentación.pdf)**
+
+### 📁 **[Tercera Entrega](/03_Entrega_Final/)**
+- **[Anexos](/03_Entrega_Final/Anexos/)**
+  - **[Hipervínculos](/03_Entrega_Final/Anexos/Anexos.md)**
+  - **[Reporte Usabilidad](/02_Segunda_Entrega/Anexos/Cogulator_Pasos_Escenario_ARISTA.ods)**
+- **[Poster](/03_Entrega_Final/Poster.pdf)**
+- **[Reporte](/03_Entrega_Final/Reporte.pdf)**
+- **[Video](/03_Entrega_Final/Video.md)**
